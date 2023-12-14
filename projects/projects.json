@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Digital Identity Verification",
+    "desc": "Digital Identity Verification uses biometrics and AI to authenticate individuals online, ensuring trustworthy interactions in finance and online services while protecting against identity theft and fraud. ",
+    "image": "id",
+    "category": "Computer Vision",
+    "links": {
+      "view": "https://6572c985648ed757fc1771a2--super-rolypoly-d8fa53.netlify.app/",
+      "code": "https://6572c985648ed757fc1771a2--super-rolypoly-d8fa53.netlify.app/"
+    }
+  },
+  {
+    "name": "The Covid-19 Vaccination Tracking",
+    "desc": "Tracking monitors and records the distribution and administration of COVID-19 vaccines. Using data analytics and technology, it offers real-time insights into vaccination progress.",
+    "image": "covid_1",
+    "category": "API",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Forecasting Renewable Energy Systems",
+    "desc": "Advancing sustainability, Renewable Energy Systems Forecasting uses cutting-edge technology and data-driven models to optimize renewable energy source performance, enhancing energy efficiency",
+    "image": "forecasting",
+    "category": "Machine Learning Algo's",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
